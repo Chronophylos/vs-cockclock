@@ -5,6 +5,8 @@
         <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
         <OutputPath>bin\$(Configuration)\Mods\mod</OutputPath>
         <Nullable>enable</Nullable>
+        <AssemblyName>RoosterClock</AssemblyName>
+        <RootNamespace>RoosterClock</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

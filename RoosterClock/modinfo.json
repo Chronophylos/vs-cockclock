@@ -1,12 +1,12 @@
 {
     "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
     "type": "Code",
-    "modid": "cockclock",
-    "name": "CockClock",
+    "modid": "roosterclock",
+    "name": "Rooster Clock",
     "authors": [
         "Chronophylos"
     ],
-    "description": "To be added",
+    "description": "Wake up early with a roosters cry",
     "version": "1.0.0",
     "dependencies": {
         "game": "1.21.0"

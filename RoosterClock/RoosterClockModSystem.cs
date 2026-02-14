@@ -4,9 +4,9 @@ using Vintagestory.API.Common;
 using Vintagestory.API.Server;
 using Vintagestory.GameContent;
 
-namespace CockClock;
+namespace RoosterClock;
 
-public class CockClockModSystem : ModSystem
+public class RoosterClockModSystem : ModSystem
 {
     public override void Start(ICoreAPI api)
     {

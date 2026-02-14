@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "CakeBuild\CakeBuild.csproj", "{C7B33394-B164-4B04-BFE8-C86CE0B8794B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CockClock", "CockClock\CockClock.csproj", "{D8BE9DE3-EBAF-4D82-98E4-8B1244FCCFFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoosterClock", "RoosterClock\RoosterClock.csproj", "{D8BE9DE3-EBAF-4D82-98E4-8B1244FCCFFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

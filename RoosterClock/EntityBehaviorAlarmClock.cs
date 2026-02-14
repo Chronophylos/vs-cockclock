@@ -8,7 +8,7 @@ using Vintagestory.API.Server;
 using Vintagestory.API.Util;
 using Vintagestory.GameContent;
 
-namespace CockClock;
+namespace RoosterClock;
 
 public class EntityBehaviorAlarmClock(Entity entity) : EntityBehavior(entity)
 {
@@ -131,6 +131,6 @@ public class EntityBehaviorAlarmClock(Entity entity) : EntityBehavior(entity)
 
         if (!IsAlarming || byEntity is not EntityPlayer entityPlayer) return;
         var player = entity.World.PlayerByUid(entityPlayer.PlayerUID) as IServerPlayer;
-        player?.SendLocalisedMessage(GlobalConstants.GeneralChatGroup, "cockclock:alarm-toggled-on");
+        player?.SendLocalisedMessage(GlobalConstants.GeneralChatGroup, "roosterclock:alarm-toggled-on");
     }
 }

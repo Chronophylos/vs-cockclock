@@ -26,7 +26,7 @@ public static class Program
 
 public class BuildContext : FrostingContext
 {
-    public const string ProjectName = "CockClock";
+    public const string ProjectName = "RoosterClock";
     public string BuildConfiguration { get; }
     public string Version { get; }
     public string Name { get; }
