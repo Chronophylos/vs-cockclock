@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/server/behaviors",
+    "value": [{ "code": "alarmclock" }],
+    "side": "server",
+    "file": "game:entities/animal/bird/chicken-adult.json"
+  }
+]
